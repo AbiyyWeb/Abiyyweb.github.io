@@ -73,4 +73,8 @@ footer p {
     font-size: 1em;
 }
 
+img {
+   width: 100%;
+   height: auto;
+}
 
